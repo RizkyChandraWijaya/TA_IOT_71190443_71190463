@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "884765259121",
+    "firebase_url": "https://smarthomeiot-3af33-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smarthomeiot-3af33",
+    "storage_bucket": "smarthomeiot-3af33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884765259121:android:423cd14eaec513c21272d0",
+        "android_client_info": {
+          "package_name": "FirebaaseIot.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884765259121-b5219r1actq7jno7u3tq5r0i0pb8bo1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "FirebaaseIot.app",
+            "certificate_hash": "c78cdd923c1f349538432cff90003efb4c4a6350"
+          }
+        },
+        {
+          "client_id": "884765259121-djvbllc840bn6pkiupmq0sa4t695qjv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYWlSSmsEXg2Tx--dyQfGUps3Sne6jZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884765259121-djvbllc840bn6pkiupmq0sa4t695qjv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884765259121:android:be9dd6342210a0c51272d0",
+        "android_client_info": {
+          "package_name": "id.ac.ukdw.firebaaseiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884765259121-djvbllc840bn6pkiupmq0sa4t695qjv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYWlSSmsEXg2Tx--dyQfGUps3Sne6jZqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884765259121-djvbllc840bn6pkiupmq0sa4t695qjv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
